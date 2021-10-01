@@ -4,7 +4,6 @@
 
 ## ENG
 
-***
 **The app use:**
 * Vue Js https://ru.vuejs.org
 * Bootsrap-vue (UI) https://bootstrap-vue.org
@@ -34,7 +33,6 @@
 
 ## RU
 
-***
 **В данном примере простого приложения использовались:**
 * Vue Js https://ru.vuejs.org
 * Bootsrap-vue (внешнее оформление) https://bootstrap-vue.org
