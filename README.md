@@ -22,7 +22,7 @@
 * Start your web-server and go to **http://localhost/index.php** (or your own local server address)
 
 **Build setup**
-* All settings in the **webpack.mix.js**
+* All settings are in the **webpack.mix.js**
 * Also, you can simplify current setup in **webpack.mix.js** like this:
 
 ***
