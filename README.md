@@ -2,7 +2,8 @@
 
 ![](./git-laravel-mix.PNG)
 
-##ENG
+## ENG
+
 ***
 **The app use:**
 * Vue Js https://ru.vuejs.org
@@ -31,7 +32,8 @@
 ***
 
 
-##RU
+## RU
+
 ***
 **В данном примере простого приложения использовались:**
 * Vue Js https://ru.vuejs.org
