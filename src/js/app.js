@@ -1,6 +1,13 @@
 import Vue from 'vue'
 
-Vue.component('example-component', require('./components/ExampleComponent.vue').default);
+import { BootstrapVue } from 'bootstrap-vue'
+Vue.use(BootstrapVue)
+
+// import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
+// Vue.use(BootstrapVue)
+// Vue.use(IconsPlugin)
+
+Vue.component('deposit-calc', require('./components/DepositCalcComponent.vue').default);
 
 const app = new Vue({
     el: '#app',

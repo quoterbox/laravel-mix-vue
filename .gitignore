@@ -22,12 +22,6 @@ _deploy/
 *.tar
 *.xlsx
 *.xls
-*.jpg
-*.png
-*.jpeg
-*.JPG
-*.PNG
-*.JPEG
 .env
 .phpunit.result.cache
 Homestead.json
